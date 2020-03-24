@@ -1,0 +1,16 @@
+---Phone---
+
+1. Install Termux
+2. Copy And Paste This In Termux: pkg install python && pkg install git && git clone https://github.com/Toxic-Omega/PWSP-Web && cd PWSP-Web && python Phone-Web-Server.py
+
+---Pc---
+
+1. Unzip ngrok.zip
+2. Unzip adb.zip
+3. Plug Your Phone In Pc
+4. Start Ngrok-Port-Forwarding.bat
+5. Start Adb-Port-Forwarding.bat
+6. Copy Ngrok Port Forwarding Link And Paste It In Google Chrome
+7. If Website Loads And Says "It works!" Then It Work, If Not Loading Then You Made A Mistake Or I Suck At Programing
+
+Contact Me Here: Toxic - Omega#1396
